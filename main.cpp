@@ -6,7 +6,7 @@ void pierwsze()
 {
     //kod na liczby pierwsze
 }
-unsigned long liczby_fib(int n)
+unsigned long liczby_fib()
 {
     //kod na liczby fibonacciego
 }
